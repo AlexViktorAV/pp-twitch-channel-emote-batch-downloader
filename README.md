@@ -19,3 +19,8 @@ A lightweight Chrome extension that adds a button to Twitch channels to quickly 
 2. Click the channel settings (three-dot menu).
 3. Click the "Download [Channel Name] Emotes" button.
 4. Your browser will download a ZIP file containing all available channel emotes.
+
+## Privacy Statement
+Twitch Channel Emote Batch Downloader does not collect, store, or transmit any user data. All settings and site configurations are stored exclusively on your local device.
+
+For the full policy, please view [index.html](index.html).
